@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=480&lines=Futuro+Desenvolvedor+JavaScript;Frontend+%C2%B7+Backend+%C2%B7+Full+Stack;Aprendendo+com+projetos+reais" alt="Futuro Desenvolvedor JavaScript · Frontend · Backend · Full Stack" />
 
-Estudante de Engenharia de Software no **UNIPÊ** · João Pessoa, Brasil
+Estudante de Engenharia de Software na **UNIPÊ** · João Pessoa, Brasil
 
 <a href="https://www.linkedin.com/in/eumarllonlrn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/eumarllonlrn"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
