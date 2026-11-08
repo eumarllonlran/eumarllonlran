@@ -2,7 +2,7 @@
 
 # Marllon Lorran
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=480&lines=Futuro+Desenvolvedor+JavaScript;Frontend+%C2%B7+Backend+%C2%B7+Full+Stack;Aprendendo+com+projetos+reais" alt="Futuro Desenvolvedor JavaScript · Frontend · Backend · Full Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8CC84B&center=true&vCenter=true&width=520&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;JavaScript+%C2%B7+Node.js+%C2%B7+APIs+REST;Aprendendo+com+projetos+reais" alt="Desenvolvedor Back-end em formação · JavaScript · Node.js · APIs REST" />
 
 Estudante de Engenharia de Software na **UNIPÊ** · João Pessoa, Brasil
 
@@ -16,20 +16,22 @@ Estudante de Engenharia de Software na **UNIPÊ** · João Pessoa, Brasil
 
 ### Sobre mim
 
-Sou estudante de Engenharia de Software e estou construindo minha carreira como **desenvolvedor JavaScript**. Sigo um caminho estruturado dos fundamentos até o full stack: primeiro HTML, CSS e JavaScript, depois TypeScript, React e Next.js e, por fim, Node.js, bancos de dados e testes. Cada etapa termina com um projeto publicado aqui.
+Sou estudante de Engenharia de Software e estou construindo minha carreira como **desenvolvedor back-end com JavaScript**. O que mais me interessa é o que acontece por trás da tela: regras de negócio, APIs, banco de dados, autenticação e deploy.
+
+Minha trilha parte dos fundamentos de JavaScript e segue para **Node.js**, **Express** e **APIs REST**, depois **PostgreSQL** e **Prisma**, e então **TypeScript**, testes automatizados e **Docker**. HTML e CSS fazem parte do caminho como complemento, para eu entender a aplicação de ponta a ponta. Cada etapa termina com um projeto publicado aqui.
 
 | 🎯 Agora | 🚀 Próximos passos | 🏁 Objetivo |
 | :-- | :-- | :-- |
-| Fundamentos de HTML, CSS e JavaScript | TypeScript, React e Next.js | Aplicações full stack com Node.js e PostgreSQL |
+| Fundamentos de JavaScript e lógica de programação | Node.js, Express, APIs REST e PostgreSQL | Desenvolvedor back-end com Node.js, TypeScript e bancos de dados |
 
 ### Tecnologias e trilha de estudos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode&theme=dark" alt="Foco atual: HTML, CSS, JavaScript, Bootstrap, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,prisma,git,github,linux&theme=dark" alt="Back-end: JavaScript, Node.js, Express, PostgreSQL, Prisma, Git, GitHub, Linux" />
   <br>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,postgres,prisma,vitest&theme=dark" alt="Próximos passos: TypeScript, React, Next.js, Tailwind, Node.js, Express, PostgreSQL, Prisma, Vitest" />
+  <img src="https://skillicons.dev/icons?i=ts,docker,vitest,html,css,vscode&theme=dark" alt="Próximos passos e complementos: TypeScript, Docker, Vitest, HTML, CSS, VS Code" />
   <br>
-  <sub>Em cima: foco atual · Embaixo: próximos passos</sub>
+  <sub>Em cima: foco no back-end · Embaixo: próximos passos e complementos</sub>
 </p>
 
 ### Projetos
@@ -37,15 +39,17 @@ Sou estudante de Engenharia de Software e estou construindo minha carreira como 
 | Projeto | Descrição | Tecnologias |
 | :-- | :-- | :-- |
 | [Faísca Orçamentos](https://github.com/eumarllonlrn/faisca-orcamentos) | Site de pedido de orçamento para eletricista, com formulário em etapas e envio pelo WhatsApp (projeto em equipe) | HTML · CSS · JavaScript · Bootstrap |
+| [Formulário de Contato](https://github.com/eumarllonlrn/formulario-contato-faculdade) | Página de contato com validação acessível, máscara de telefone e modo escuro | HTML · CSS · JavaScript |
+| [Exercícios em C](https://github.com/eumarllonlrn/exercicios-c) | Exercícios de lógica de programação: laços, condicionais e acumuladores | C |
 
-🚧 Mais projetos chegando conforme avanço na trilha: um gerenciador de tarefas, aplicações que consomem APIs, um dashboard em React e uma aplicação full stack.
+🚧 Próximos projetos da trilha: uma API REST de tarefas com Node.js e Express, uma API com PostgreSQL e Prisma, autenticação com JWT e uma aplicação completa com deploy.
 
 ### No momento
 
-- 📚 Estudando fundamentos de JavaScript e manipulação do DOM
-- 🛠️ Criando projetos com HTML, CSS e JavaScript puros
-- 🤝 Aberto a oportunidades de estágio em desenvolvimento web
+- 📚 Estudando fundamentos de JavaScript e me preparando para Node.js
+- 🛠️ Construindo projetos para praticar lógica e boas práticas de código
+- 🤝 Aberto a oportunidades de estágio em desenvolvimento back-end
 
 ---
 
-<div align="center"><sub>JavaScript primeiro · Construindo projetos reais · Sempre aprendendo</sub></div>
+<div align="center"><sub>JavaScript no back-end · Construindo projetos reais · Sempre aprendendo</sub></div>
