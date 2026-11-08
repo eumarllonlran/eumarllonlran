@@ -6,9 +6,9 @@
 
 Estudante de Engenharia de Software na **UNIPÊ** · João Pessoa, Brasil
 
-<a href="https://www.linkedin.com/in/eumarllonlrn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/eumarllonlrn"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/eumarllonlrn?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios" /></a>
+<a href="https://www.linkedin.com/in/eumarllonlran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/eumarllonlran"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/eumarllonlran?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios" /></a>
 
 </div>
 
@@ -38,9 +38,9 @@ Minha trilha parte dos fundamentos de JavaScript e segue para **Node.js**, **Exp
 
 | Projeto | Descrição | Tecnologias |
 | :-- | :-- | :-- |
-| [Faísca Orçamentos](https://github.com/eumarllonlrn/faisca-orcamentos) | Site de pedido de orçamento para eletricista, com formulário em etapas e envio pelo WhatsApp (projeto em equipe) | HTML · CSS · JavaScript · Bootstrap |
-| [Formulário de Contato](https://github.com/eumarllonlrn/formulario-contato-faculdade) | Página de contato com validação acessível, máscara de telefone e modo escuro | HTML · CSS · JavaScript |
-| [Exercícios em C](https://github.com/eumarllonlrn/exercicios-c) | Exercícios de lógica de programação: laços, condicionais e acumuladores | C |
+| [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos) | Site de pedido de orçamento para eletricista, com formulário em etapas e envio pelo WhatsApp (projeto em equipe) | HTML · CSS · JavaScript · Bootstrap |
+| [Formulário de Contato](https://github.com/eumarllonlran/formulario-contato-faculdade) | Página de contato com validação acessível, máscara de telefone e modo escuro | HTML · CSS · JavaScript |
+| [Exercícios em C](https://github.com/eumarllonlran/exercicios-c) | Exercícios de lógica de programação: laços, condicionais e acumuladores | C |
 
 🚧 Próximos projetos da trilha: uma API REST de tarefas com Node.js e Express, uma API com PostgreSQL e Prisma, autenticação com JWT e uma aplicação completa com deploy.
 
