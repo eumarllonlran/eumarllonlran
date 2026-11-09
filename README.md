@@ -2,7 +2,7 @@
 
 # Marllon Lorran
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8CC84B&center=true&vCenter=true&width=520&lines=Aspiring+Back-end+Developer;JavaScript+%C2%B7+Node.js+%C2%B7+REST+APIs;Learning+by+building+real+projects" alt="Aspiring Back-end Developer · JavaScript · Node.js · REST APIs" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8CC84B&center=true&vCenter=true&width=520&lines=Backend+Developer+in+Training;JavaScript+%C2%B7+Node.js+%C2%B7+REST+APIs;Learning+by+building+real+projects" alt="Backend Developer in Training · JavaScript · Node.js · REST APIs" />
 
 Software Engineering student at **UNIPÊ** · João Pessoa, Brazil
 
@@ -16,22 +16,22 @@ Software Engineering student at **UNIPÊ** · João Pessoa, Brazil
 
 ### About Me
 
-I'm a Software Engineering student building my career as a **back-end developer with JavaScript**. What interests me most is what happens behind the screen: business logic, APIs, databases, authentication, and deployment.
+I'm a Software Engineering student building my career as a **backend developer with JavaScript**. What interests me most is what happens behind the screen: business logic, APIs, databases, authentication, and deployment.
 
 My learning path starts with JavaScript fundamentals and moves on to **Node.js**, **Express**, and **REST APIs**, then **PostgreSQL** and **Prisma**, followed by **TypeScript**, automated testing, and **Docker**. HTML and CSS are part of the journey as a complement, so I can understand applications end to end. Each stage ends with a project published here.
 
 | 🎯 Now | 🚀 Next Steps | 🏁 Goal |
 | :-- | :-- | :-- |
-| JavaScript fundamentals and programming logic | Node.js, Express, REST APIs, and PostgreSQL | Back-end developer with Node.js, TypeScript, and databases |
+| JavaScript fundamentals and programming logic | Node.js, Express, REST APIs, and PostgreSQL | Backend developer with Node.js, TypeScript, and databases |
 
 ### Tech Stack & Learning Path
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,prisma,git,github,linux&theme=dark" alt="Back-end: JavaScript, Node.js, Express, PostgreSQL, Prisma, Git, GitHub, Linux" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,prisma,git,github,linux&theme=dark" alt="Backend: JavaScript, Node.js, Express, PostgreSQL, Prisma, Git, GitHub, Linux" />
   <br>
   <img src="https://skillicons.dev/icons?i=ts,docker,vitest,html,css,vscode&theme=dark" alt="Next steps and complements: TypeScript, Docker, Vitest, HTML, CSS, VS Code" />
   <br>
-  <sub>Top: back-end focus · Bottom: next steps and complements</sub>
+  <sub>Top: backend focus · Bottom: next steps and complements</sub>
 </p>
 
 ### Projects
@@ -48,8 +48,8 @@ My learning path starts with JavaScript fundamentals and moves on to **Node.js**
 
 - 📚 Studying JavaScript fundamentals and preparing for Node.js
 - 🛠️ Building projects to practice logic and clean code
-- 🤝 Open to back-end development internship opportunities
+- 🤝 Open to backend development internship opportunities
 
 ---
 
-<div align="center"><sub>JavaScript on the back end · Building real projects · Always learning</sub></div>
+<div align="center"><sub>JavaScript on the backend · Building real projects · Always learning</sub></div>
