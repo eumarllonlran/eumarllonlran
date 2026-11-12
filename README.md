@@ -31,6 +31,8 @@ Antes de focar em desenvolvimento, estudei Linux, terminal, redes e scripts com 
 
 HTML e CSS entram como complemento, para eu entender a aplicação de ponta a ponta.
 
+📚 Acompanhe minha evolução no repositório **[estudos-javascript](https://github.com/eumarllonlran/estudos-javascript)**, onde registro cada tópico estudado, anotações e exercícios.
+
 ### 🛠️ Tecnologias
 
 <p align="center">
@@ -45,6 +47,7 @@ HTML e CSS entram como complemento, para eu entender a aplicação de ponta a po
 
 | Projeto | Descrição | Tecnologias |
 | :-- | :-- | :-- |
+| [Estudos JavaScript](https://github.com/eumarllonlran/estudos-javascript) | Minha trilha de estudos organizada por tecnologia, com anotações, exercícios e diário | HTML · CSS · JavaScript · Git · Node.js · SQL |
 | [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos) | Site de pedido de orçamento para eletricista, com formulário em etapas e envio pelo WhatsApp (projeto em equipe) | HTML · CSS · JavaScript · Bootstrap |
 | [Formulário de Contato](https://github.com/eumarllonlran/formulario-contato-faculdade) | Página de contato com validação acessível, máscara de telefone e modo escuro · [ver online](https://eumarllonlran.github.io/formulario-contato-faculdade/) | HTML · CSS · JavaScript |
 | [Exercícios em C](https://github.com/eumarllonlran/exercicios-c) | Exercícios de lógica de programação: laços, condicionais e acumuladores | C |
