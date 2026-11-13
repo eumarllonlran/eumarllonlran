@@ -50,7 +50,6 @@ HTML and CSS come in as a complement, so I can understand applications end to en
 | [JavaScript Studies](https://github.com/eumarllonlran/estudos-javascript) | My learning path organized by technology, with notes, exercises and a study log | HTML · CSS · JavaScript · Git · Node.js · SQL |
 | [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos) | Quote-request website for electricians, with a multi-step form and WhatsApp delivery (team project) | HTML · CSS · JavaScript · Bootstrap |
 | [Contact Form](https://github.com/eumarllonlran/formulario-contato-faculdade) | Contact page with accessible validation, phone input masking and dark mode · [live demo](https://eumarllonlran.github.io/formulario-contato-faculdade/) | HTML · CSS · JavaScript |
-| [C Exercises](https://github.com/eumarllonlran/exercicios-c) | Programming logic exercises: loops, conditionals and accumulators | C |
 
 🚧 **Coming next:** a to-do REST API with Node.js and Express, an API with PostgreSQL and Prisma, JWT authentication, and a full application with deployment.
 
