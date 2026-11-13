@@ -31,7 +31,7 @@ Before focusing on development, I studied Linux, the terminal, networking and sc
 
 HTML and CSS come in as a complement, so I can understand applications end to end.
 
-📚 Follow my progress in the **[estudos-javascript](https://github.com/eumarllonlran/estudos-javascript)** repository, where I log every topic I study, along with notes and exercises.
+📚 Follow my progress in the **[javascript-studies](https://github.com/eumarllonlran/javascript-studies)** repository, where I log every topic I study, along with notes and exercises.
 
 ### 🛠️ Tech stack
 
@@ -47,9 +47,9 @@ HTML and CSS come in as a complement, so I can understand applications end to en
 
 | Project | Description | Tech |
 | :-- | :-- | :-- |
-| [JavaScript Studies](https://github.com/eumarllonlran/estudos-javascript) | My learning path organized by technology, with notes, exercises and a study log | HTML · CSS · JavaScript · Git · Node.js · SQL |
+| [JavaScript Studies](https://github.com/eumarllonlran/javascript-studies) | My learning path organized by technology, with notes, exercises and a study log | HTML · CSS · JavaScript · Git · Node.js · SQL |
 | [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos) | Quote-request website for electricians, with a multi-step form and WhatsApp delivery (team project) | HTML · CSS · JavaScript · Bootstrap |
-| [Contact Form](https://github.com/eumarllonlran/formulario-contato-faculdade) | Contact page with accessible validation, phone input masking and dark mode · [live demo](https://eumarllonlran.github.io/formulario-contato-faculdade/) | HTML · CSS · JavaScript |
+| [Contact Form](https://github.com/eumarllonlran/college-contact-form) | Contact page with accessible validation, phone input masking and dark mode · [live demo](https://eumarllonlran.github.io/college-contact-form/) | HTML · CSS · JavaScript |
 
 🚧 **Coming next:** a to-do REST API with Node.js and Express, an API with PostgreSQL and Prisma, JWT authentication, and a full application with deployment.
 
